@@ -1,0 +1,2 @@
+.h5 filter=lfs diff=lfs merge=lfs -text
+FL_data.csv filter=lfs diff=lfs merge=lfs -text
