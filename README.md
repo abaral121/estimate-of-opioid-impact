@@ -6,7 +6,7 @@ rise in prescription overdose deaths, and increasingly deaths from non-prescript
 like heroin and fentanyl as people who became addicted to opioids due to prescriptions
 turn to illegal markets to sustain their addiction.
 
-![](./50_resources/opiod-epidemic.png)
+![](./50_resources/opioid-epidemic.png)
 
 In this project, we’ll be estimating the effectiveness of policy interventions designed
 to limit the over-prescription of opioids. More specifically, we will attempt to measure the
